@@ -1,0 +1,7 @@
+{
+  "name": "JS211_SortingPractice",
+  "version": "1.0.0",
+  "dependencies": {
+    "mocha": "^9.2.0"
+  }
+}
